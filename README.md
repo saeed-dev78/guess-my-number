@@ -1,29 +1,15 @@
-# guess-my-number-game
+# Project 3: JavaScript/guess-number-game
 
-JavaScript has many features, and in this project, I use js to create a wonderful game that you need to guess the random number and win the game.
+### JavaScript has many features, and in this project, I use js to create a wonderful game that you need to guess the random number and win the game.
 
-Hope you like it
+Hope you like it ❤
 
-# Project 2: JavaScript/Dice-Dame
-
-## this game is one of my best projects with JavaScript.
-### there are some tips that you need to familar with them
-
-### Rules:
-1. if you get 100 scores, you are the winner. congratulations:))))
-2. if you click on 'Role Dice' button, you can get a random dice number
-3. if you click on 'Hold' button, you can hold and save your score on a local host
-4. you need to roll the dice again and again to get 100 scores.
-5. only there is one exceptional rule; if you roll the dice and get number 1, you can't keep going. so, it's your competitor's turn.
-
-I hope you like it ❤
- 
 best of luck 😎
 
-![dice](https://github.com/saeeddev-ir/Dice-game/assets/105293554/d6412c70-ef16-443c-8ef0-dba101359f55)
+![guess number](https://github.com/saeeddev-ir/guess-number/assets/105293554/63910ee2-e625-4595-9cd3-4e62275c6c69)
 
 
-🔗 [Demo Project](https://saeeddev-ir.github.io/Dice-game/)
+🔗 [Demo Project]()
 
 👨‍💻 Developed by Saeed Abdollahi
 
